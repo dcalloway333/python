@@ -24,4 +24,6 @@ elif question == "f":
     far2 = str(far2)
     print(name +" the tempature is " + far2)
 else:
-    print("Nah")
+    print("nope")
+
+    # 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
